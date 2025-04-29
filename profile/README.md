@@ -7,7 +7,7 @@ Welcome to **Syde Swipe Studios, LLC** — an independent game development studi
 ## 🛠️ Current Projects
 
 ### 🚓 Code 707
-A fast-paced multiplayer **Cops & Robbers** game featuring:
+A fast-paced multiplayer **Heist** game featuring:
 
 - 💰 Dynamic heists and tactical escapes  
 - 👮‍♂️ Real-time PvP chases and arrests  
